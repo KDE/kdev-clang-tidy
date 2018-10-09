@@ -1,4 +1,0 @@
-File=clangtidyprojectconfig.kcfg
-ClassName=ClangTidyProjectSettings
-Singleton=false
-Mutators=true

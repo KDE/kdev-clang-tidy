@@ -1,5 +1,0 @@
-File=clangtidyconfig.kcfg
-ClassName=ClangTidySettings
-Singleton=true
-UseEnumTypes=true
-ItemAccessors=true
